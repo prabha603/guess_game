@@ -1,5 +1,5 @@
 # guess_game
-1. Game Rules (Basic Number Guessing Game)\n
+1. Game Rules (Basic Number Guessing Game)"\n"
   One player (or the computer) secretly chooses a number within a fixed range (for example, 1–100).
   The other player(s) try to guess the number.
   After each guess, the game gives a hint:
