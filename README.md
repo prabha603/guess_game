@@ -1,16 +1,16 @@
 # guess_game
 1. Game Rules (Basic Number Guessing Game)
-  One player (or the computer) secretly chooses a number within a fixed range (for example, 1–100).
-  The other player(s) try to guess the number.
-  After each guess, the game gives a hint:
-  Too high
-  Too low
-  Correct
-  The game ends when the correct number is guessed
+  -One player (or the computer) secretly chooses a number within a fixed range (for example, 1–100).
+  -The other player(s) try to guess the number.
+   -After each guess, the game gives a hint:
+  -Too high
+  -Too low
+  -Correct
+  -The game ends when the correct number is guessed
 2. Game Requirements
-   A secret number
-   A range for guesses (e.g., 1–50)
-   A way to input guesses (speaking, writing, typing)
+   -A secret number
+   -A range for guesses (e.g., 1–50)
+   -A way to input guesses (speaking, writing, typing)
    A way to check guesses and give feedback
     Optional (to make it better)
     Guess counter
